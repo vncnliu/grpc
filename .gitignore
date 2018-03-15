@@ -1,0 +1,8 @@
+.idea/
+client/client.iml
+client/src/main/resources/
+client/src/test/
+client/target/
+front/front.iml
+front/src/test/
+front/target/
